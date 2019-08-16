@@ -1,0 +1,14 @@
+<?php include "includes/header.php";?>
+
+<p>When comparing between employee who make app and employee who make a responsive website, the tasks will be quite different. For any app company, one would need to employee a variety of developer. This would include programmer, web designer, web developer. For web developing, it only requires a certain number of people and it would be able to make a website to work properly. This however will lead to how much the cost of producing the final product is the different. Mobile app will cost more to produce at the begin, however the cost to maintain the app will not be much since the owner will only need to get the license to privatize the app. For responsive web on the other hand, the production of the web cost less than a mobile app on the same value. However, in return, the cost of maintaining will be higher due to server fee and hosting fee. This will lead to two different types of client, one that will spend bigger budget and one who will try to be affordable. Since mobile app cost less to maintain, this is will lead to many clients who need a quick service to produce the app. For responsive web service, the client will need employee to maintain and update the web depending on the current trend. This will lead to more permanent position in job.
+
+ </p>
+<img src="images/web-vs-app.png" alt="separation between mobile app verse responsive website" class="main-img">
+<p> This however might change as the trend of mobile continue, because apps are more responsive and often can be use offline which would gather more consumer to use it. And once more consumer is heading toward apps, company that want to follow the trend will head toward app development. However, according to the author from interaction-design, having too many app can cause overload to user’s perspective and causing user to return to individual website. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HipR5Ql18d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul><b>Citing Source</b></ul>
+<li>Kris. “The Pros and Cons of Mobile Apps vs. Responsive Web Design.” SmashStack, 5 Jan. 2017, www.smashstack.com/articles/the-pros-and-cons-of-mobile-apps-vs-responsive-web-design/.</li>
+<li>Zollman, Jessica. “Native vs Hybrid vs Responsive: What App Flavour Is Best for You?” The Interaction Design Foundation, May 2019, www.interaction-design.org/literature/article/native-vs-hybrid-vs-responsive-what-app-flavour-is-best-for-you. </li>
+</section>
+</body>
+<?php include "includes/footer.php";?>
